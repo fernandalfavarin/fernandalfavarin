@@ -1,4 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
+Meu nome é Fernanda Lima
+
+Estou estudando na Alura
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+## Você pode entrar em contato comigo 📫
+email: 00001105183555SP@al.educacao.sp.gov.br
+
 
 <!--
 **fernandalfavarin/fernandalfavarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
